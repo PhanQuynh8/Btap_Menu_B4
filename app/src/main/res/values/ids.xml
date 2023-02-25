@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="option_settings" type="id" />
+    <item name="option_favourites" type="id" />
+    <item name="sub_option_email" type="id" />
+    <item name="sub_option_phone" type="id" />
+</resources>
